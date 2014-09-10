@@ -152,19 +152,19 @@ How it's done;
 
 Rewrite your pitch to follow the form
 
-###Sept. 3, 2014###
-
+###Sept. 8, 2014###
 **In class:**
 
-Story pitch review;Writing for the web;Expanding the idea of narrative;Interviewing tips and techniques;
-Profile assignment;
+Story pitch review;  Writing for the web;  Expanding the idea of narrative;  Interviewing tips and techniques;  
+Profile assignment;  
 
 **Homework:**
 
 Read Chapt. 11
 Write a 250 word bio for your person.
+Rewrite your pitch to follow the form
 
-###Sept. 8, 2014###
+###Sept. 10, 2014###
 
 **In class:**
 
@@ -180,7 +180,7 @@ Watch Thorsen video;
 Read Chapter 6;
 Shoot an feature photo for class Thursday.
 
-###Sept. 10, 2014###
+###Sept. 15, 2014###
 
 **In class:**
 
@@ -193,7 +193,7 @@ Edit your photos from this week down to one feature photo you will turn in for a
 Read Chapter 7;
 
 
-###Sept. 15, 2014###
+###Sept. 17, 2014###
 
 **In class:**
 
@@ -205,7 +205,7 @@ Intro to video;
 
 Check out a video camera. Record a Man on the Street Interview. Make sure you get good audio. Bring the video to class.
 
-###Sept. 17, 2014###
+###Sept. 22, 2014###
 
 **In class:**
 
@@ -218,7 +218,7 @@ Read Chapter 6;
 Shoot a 1 minute feature video/nat sound package. Get good visuals, good audio, multiple angles. Edit it to the alloted time. Upload to Youtube and submit the URL for a grade.
 Prepare your first story pitch;
 
-###Sept. 22, 2014###
+###Sept. 24, 2014###
 
 **In class:**
 
@@ -229,7 +229,7 @@ Intro to audio;
 **Homework:**
 
 
-###Sept. 24, 2014###
+###Sept. 29, 2014###
 
 **In class:**
 
@@ -239,7 +239,7 @@ Audio editing;
 
 Read Chapter 5;
 
-###Sept. 29, 2014###
+###Oct. 1, 2014###
 
 **In class:**
 
@@ -250,7 +250,7 @@ Mobile journalism;
 
 None. Story due on Thursday. Sign up for line edit.
 
-###Oct. 1, 2014###
+###Oct. 6, 2014###
 
 **In class:**
 
@@ -261,7 +261,7 @@ Line edits. No class meeting.
 Read chapter 4;
 Prepare story pitch 2;
 
-###Oct. 6, 2014###
+###Oct. 8, 2014###
 
 **In class:**
 
@@ -273,7 +273,7 @@ Intro to social;
 
 Homework TBA;
 
-###Oct. 8, 2014###
+###Oct. 13, 2014###
 
 **In class:**
 
@@ -282,16 +282,6 @@ Social II
 **Homework:**
 
 Homeowork TBA;
-
-###Oct. 13, 2014###
-
-**In class:**
-
-Social III
-
-**Homework:**
-
-Homework TBA;
 
 ###Oct. 15, 2014###
 
